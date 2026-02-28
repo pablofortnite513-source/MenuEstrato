@@ -1,0 +1,19 @@
+# Carpetas compiladas
+bin/
+target/
+build/
+
+# Archivos compilados
+*.class
+
+# Archivos de Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
